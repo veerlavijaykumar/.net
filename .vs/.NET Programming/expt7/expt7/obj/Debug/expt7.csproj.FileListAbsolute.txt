@@ -1,0 +1,7 @@
+C:\Users\gopal\source\repos\expt7\expt7\bin\Debug\expt7.exe.config
+C:\Users\gopal\source\repos\expt7\expt7\bin\Debug\expt7.exe
+C:\Users\gopal\source\repos\expt7\expt7\bin\Debug\expt7.pdb
+C:\Users\gopal\source\repos\expt7\expt7\obj\Debug\expt7.csproj.AssemblyReference.cache
+C:\Users\gopal\source\repos\expt7\expt7\obj\Debug\expt7.csproj.CoreCompileInputs.cache
+C:\Users\gopal\source\repos\expt7\expt7\obj\Debug\expt7.exe
+C:\Users\gopal\source\repos\expt7\expt7\obj\Debug\expt7.pdb

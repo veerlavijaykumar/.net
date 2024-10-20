@@ -1,0 +1,7 @@
+C:\Users\gopal\source\repos\expt8\expt8\bin\Debug\expt8.exe.config
+C:\Users\gopal\source\repos\expt8\expt8\bin\Debug\expt8.exe
+C:\Users\gopal\source\repos\expt8\expt8\bin\Debug\expt8.pdb
+C:\Users\gopal\source\repos\expt8\expt8\obj\Debug\expt8.csproj.AssemblyReference.cache
+C:\Users\gopal\source\repos\expt8\expt8\obj\Debug\expt8.csproj.CoreCompileInputs.cache
+C:\Users\gopal\source\repos\expt8\expt8\obj\Debug\expt8.exe
+C:\Users\gopal\source\repos\expt8\expt8\obj\Debug\expt8.pdb

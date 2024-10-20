@@ -1,0 +1,7 @@
+C:\Users\gopal\OneDrive\Desktop\.NET Programming\.vs\.NET Programming\expt3\expt3\bin\Debug\expt3.exe.config
+C:\Users\gopal\OneDrive\Desktop\.NET Programming\.vs\.NET Programming\expt3\expt3\bin\Debug\expt3.exe
+C:\Users\gopal\OneDrive\Desktop\.NET Programming\.vs\.NET Programming\expt3\expt3\bin\Debug\expt3.pdb
+C:\Users\gopal\OneDrive\Desktop\.NET Programming\.vs\.NET Programming\expt3\expt3\obj\Debug\expt3.csproj.AssemblyReference.cache
+C:\Users\gopal\OneDrive\Desktop\.NET Programming\.vs\.NET Programming\expt3\expt3\obj\Debug\expt3.csproj.CoreCompileInputs.cache
+C:\Users\gopal\OneDrive\Desktop\.NET Programming\.vs\.NET Programming\expt3\expt3\obj\Debug\expt3.exe
+C:\Users\gopal\OneDrive\Desktop\.NET Programming\.vs\.NET Programming\expt3\expt3\obj\Debug\expt3.pdb

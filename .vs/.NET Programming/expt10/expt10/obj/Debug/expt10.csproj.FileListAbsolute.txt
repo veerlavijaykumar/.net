@@ -1,0 +1,10 @@
+C:\Users\gopal\source\repos\expt10\expt10\bin\Debug\expt10.exe.config
+C:\Users\gopal\source\repos\expt10\expt10\bin\Debug\expt10.exe
+C:\Users\gopal\source\repos\expt10\expt10\bin\Debug\expt10.pdb
+C:\Users\gopal\source\repos\expt10\expt10\obj\Debug\expt10.csproj.AssemblyReference.cache
+C:\Users\gopal\source\repos\expt10\expt10\obj\Debug\expt10.Form1.resources
+C:\Users\gopal\source\repos\expt10\expt10\obj\Debug\expt10.Properties.Resources.resources
+C:\Users\gopal\source\repos\expt10\expt10\obj\Debug\expt10.csproj.GenerateResource.cache
+C:\Users\gopal\source\repos\expt10\expt10\obj\Debug\expt10.csproj.CoreCompileInputs.cache
+C:\Users\gopal\source\repos\expt10\expt10\obj\Debug\expt10.exe
+C:\Users\gopal\source\repos\expt10\expt10\obj\Debug\expt10.pdb
